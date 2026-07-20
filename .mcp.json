@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "curvedfor": {
+      "type": "http",
+      "url": "https://mcp.curvedfor.com/mcp"
+    }
+  }
+}

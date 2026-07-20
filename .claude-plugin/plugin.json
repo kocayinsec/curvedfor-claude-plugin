@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "curvedfor",
+  "displayName": "CurvedFor",
+  "version": "1.0.0",
+  "description": "Prepare and structurally check bounded launch-page proof packs.",
+  "homepage": "https://curvedfor.com",
+  "author": {
+    "name": "CurvedFor"
+  },
+  "keywords": ["launch-page", "proof-pack", "client-delivery"]
+}
